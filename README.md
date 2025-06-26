@@ -73,11 +73,11 @@ Backend: http://:5000/api/message
 
 ## 🔐 S3 Integration (IAM Role Required)
 
-✅ Grant IAM Role to EC2:
+# ✅ Grant IAM Role to EC2:
 
 Attach role with AmazonS3FullAccess to the instance.
 
-🧪 Test S3 CLI Access:
+# 🧪 Test S3 CLI Access:
 
 aws s3 ls
 
@@ -100,7 +100,7 @@ docker-compose up --build -d
 
 echo "✅ App running at: http://$(curl -s http://checkip.amazonaws.com):3000"
 
-To run it:
+# To run it:
 
 chmod +x deploy.sh
 
