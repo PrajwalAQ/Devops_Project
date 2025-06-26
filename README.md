@@ -107,6 +107,27 @@ chmod +x deploy.sh
 
 ./deploy.sh
 
+## Screenshots of the running project
+
+### Dockerize the Application
+
+Deliverables:
+
+Dockerfile
+
+![image](https://github.com/user-attachments/assets/a5db77ce-66f3-42be-9e43-1438f65b01f8)
+![image](https://github.com/user-attachments/assets/a5db77ce-66f3-42be-9e43-1438f65b01f8)
+
+![image](https://github.com/user-attachments/assets/c62eaa4f-f0d4-43d2-97ce-d12c266dbf0e)
+![image](https://github.com/user-attachments/assets/c62eaa4f-f0d4-43d2-97ce-d12c266dbf0e)
+
+![image](https://github.com/user-attachments/assets/ecdb20da-1c32-490b-ab7e-f3948ead915d)
+![image](https://github.com/user-attachments/assets/ecdb20da-1c32-490b-ab7e-f3948ead915d)
+
+![image](https://github.com/user-attachments/assets/e4d3e917-f5c1-4381-bb92-b7f1bb93af8a)
+![image](https://github.com/user-attachments/assets/e4d3e917-f5c1-4381-bb92-b7f1bb93af8a)
+
+
 
 ## ✅ Author
 
