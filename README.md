@@ -147,12 +147,9 @@ cloud-init to automate Docker install and app launch on EC2 boot
 
 simple shell script (deploy.sh) that sets up the app
 
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/2aea0438-887b-46f6-85b1-ed0a446a13ee" />
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/2aea0438-887b-46f6-85b1-ed0a446a13ee" />
+![image](https://github.com/user-attachments/assets/2b829b6e-3cbc-4823-bced-2a754ec83126)
 
-
-
-
+![image](https://github.com/user-attachments/assets/30971a80-2bfa-4450-84ea-78644a3b3f6a)
 
 
 ## ✅ Author
