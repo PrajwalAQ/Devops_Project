@@ -111,21 +111,47 @@ chmod +x deploy.sh
 
 ### Dockerize the Application
 
-Deliverables:
+Dockerfile code and the containers(active) in Docker Desktop
 
-Dockerfile
-
-![image](https://github.com/user-attachments/assets/a5db77ce-66f3-42be-9e43-1438f65b01f8)
 ![image](https://github.com/user-attachments/assets/a5db77ce-66f3-42be-9e43-1438f65b01f8)
 
 ![image](https://github.com/user-attachments/assets/c62eaa4f-f0d4-43d2-97ce-d12c266dbf0e)
-![image](https://github.com/user-attachments/assets/c62eaa4f-f0d4-43d2-97ce-d12c266dbf0e)
 
-![image](https://github.com/user-attachments/assets/ecdb20da-1c32-490b-ab7e-f3948ead915d)
 ![image](https://github.com/user-attachments/assets/ecdb20da-1c32-490b-ab7e-f3948ead915d)
 
 ![image](https://github.com/user-attachments/assets/e4d3e917-f5c1-4381-bb92-b7f1bb93af8a)
-![image](https://github.com/user-attachments/assets/e4d3e917-f5c1-4381-bb92-b7f1bb93af8a)
+
+## Launch and Configure AWS EC2
+
+Run your app in Docker on EC2
+
+EC2 dashboard
+
+![image](https://github.com/user-attachments/assets/2e4beae8-375d-4ce0-97f6-eddef9c41660)
+
+
+SSH terminal session
+
+![image](https://github.com/user-attachments/assets/31124527-5cdb-4978-a51e-a2cd8de9f0cd)
+
+
+App running via public EC2 IP
+
+![image](https://github.com/user-attachments/assets/43fcf048-5120-4e37-9e64-cbf69767d4af)
+
+IAM roles to access S3 from EC2
+
+![image](https://github.com/user-attachments/assets/316d0142-b6f9-4af8-853f-0636be091be7)
+
+cloud-init to automate Docker install and app launch on EC2 boot
+
+simple shell script (deploy.sh) that sets up the app
+
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/2aea0438-887b-46f6-85b1-ed0a446a13ee" />
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/2aea0438-887b-46f6-85b1-ed0a446a13ee" />
+
+
+
 
 
 
