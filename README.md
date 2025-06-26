@@ -53,7 +53,7 @@ my-app/
 
 ## 🧑‍💻 Commands to Run Project
 
-####🧾 One-time Setup (On EC2)
+#### 🧾 One-time Setup (On EC2)
 
 sudo apt update
 
