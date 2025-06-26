@@ -1,4 +1,4 @@
-### DevOps_Project: Dockerized Fullstack App with AWS EC2 and S3
+# DevOps_Project: Dockerized Fullstack App with AWS EC2 and S3
 
 ## 📌 Overview
 
@@ -100,7 +100,7 @@ docker-compose up --build -d
 
 echo "✅ App running at: http://$(curl -s http://checkip.amazonaws.com):3000"
 
-# To run it:
+### To run it:
 
 chmod +x deploy.sh
 
