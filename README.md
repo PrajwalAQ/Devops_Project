@@ -106,3 +106,10 @@ echo "✅ App running at: http://$(curl -s http://checkip.amazonaws.com):3000"
 chmod +x deploy.sh
 
 ./deploy.sh
+
+
+## ✅ Author
+
+Prajwal Arnald Quadras
+
+🌐 GitHub💬 Public Speaker | Software Developer | Cloud Enthusiast
